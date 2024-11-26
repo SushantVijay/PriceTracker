@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="trackerss.png" alt="trackerss" width="400" height="400/">
+<img src="trackerss.png" alt="trackerss" width="100%">
 
   
   
